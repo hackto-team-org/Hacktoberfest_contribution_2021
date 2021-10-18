@@ -1,0 +1,10 @@
+JAVA MCQs---->
+*OVERLOADING is determined in java at compile time.
+*All JAVA lasses are derived from (java.lang.Object).
+* if “String[]args” is not included as an argument in the main method Program won’t run.
+*It is called -(AGGREGATION), where child object gets killed if parent object is killed.
+*Method overriding is combination of inheritance and polymorphism.
+*exit() is not a flow control statement in Java.
+*return,break,continue is a valid flow statement.
+*~operator is used to invert all the digits in binary representation of a number.
+* OOPs features are-increasing productivity , reuseability, decreasing maintenance cost.
