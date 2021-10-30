@@ -6,7 +6,7 @@
 -🤖 Python <br/>
 -🤖 Java <br/>
 -🤖 Javascript <br/>
-In each respective folder on any topic, don't forget to read the rules below to get your pull request accepted.</h2>
+
 <p>👷‍♂️ Contribute to this repo and earn rewards!</p>
 <p>⚙️ Visit The Hacktoberfest website for more information <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2021</a>
 <br/>
