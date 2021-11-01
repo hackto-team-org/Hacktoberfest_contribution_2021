@@ -3,6 +3,7 @@
 <h2>👉 Add any pattern program in any programming language<br/>
 -🤖 C++ <br/>
 -🤖 C <br/>
+-🤖 C# <br/>
 -🤖 Python <br/>
 -🤖 Java <br/>
 -🤖 Javascript <br/>
